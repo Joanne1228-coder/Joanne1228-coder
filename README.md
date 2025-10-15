@@ -1,4 +1,5 @@
-![Header](github-header-banner (1).png)
+<img width="1276" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/76c3194e-53f9-4c5a-a051-7eb8388eac17" />
+
 
 💻 I’m a fourth-year Software Engineering undergraduate student at the University of Malaya based in Kuala Lumpur, keen to explore and understand how real-world systems and technologies are maintained, enhanced, and evolved.
 
