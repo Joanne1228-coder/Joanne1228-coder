@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](github-header-banner (1).png)
 
 💻 I’m a fourth-year Software Engineering undergraduate student at the University of Malaya based in Kuala Lumpur, keen to explore and understand how real-world systems and technologies are maintained, enhanced, and evolved.
 
