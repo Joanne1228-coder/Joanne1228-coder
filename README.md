@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 💻 I’m a fourth-year Software Engineering undergraduate student at the University of Malaya based in Kuala Lumpur, keen to explore and understand how real-world systems and technologies are maintained, enhanced, and evolved.
 
 🏆 My goal for this course is to gain the insights of modern maintenance practices and obtain hands-on experience in levelling up software performance and ensuring the sustainability of the system.
